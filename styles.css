@@ -9,7 +9,7 @@
 body {
     font-family: 'Josefin Sans', sans-serif;
     display: flex;
-    overflow: hidden;
+    overflow-x: hidden;
 }
 
 :root {
@@ -167,7 +167,7 @@ p {
 }
 
 .desktop-img {
-    height: 100vh;
+    height: 110vh;
 }
 
 .mobile-bg {
