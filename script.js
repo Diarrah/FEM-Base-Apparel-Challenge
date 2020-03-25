@@ -1,5 +1,5 @@
 let form = document.querySelector('.form-control');
-let email = document.querySelector('.email');
+let email = document.getElementById('email');
 let error_msg = document.querySelector('.error-msg');
 
 form.addEventListener('submit', (e) => {
